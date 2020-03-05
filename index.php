@@ -6,7 +6,7 @@
     Categories: https://api-packages.herokuapp.com/movie_api/category/read.php <br><br>
     Update: https://api-packages.herokuapp.com/movie_api/movies/update.php <br><br>
     Create: https://api-packages.herokuapp.com/movie_api/movies/create.php <br><br>
-    Delete: https://api-packages.herokuapp.com/movie_api/movies/delete.php&id="ID HERE" <br><br>
+    Delete: https://api-packages.herokuapp.com/movie_api/movies/delete.php <br><br>
     Search: https://api-packages.herokuapp.com/movie_api/movies/search.php?name="Title Movie" <br><br>
   </p>
 </html>
